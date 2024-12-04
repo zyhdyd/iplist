@@ -22,13 +22,10 @@
 172.67.169.190:443#US加利福尼亚
 172.67.147.118:443#US加利福尼亚
 104.21.88.231:443#US加利福尼亚
-icook.tw:2053#优选域名
-visa.cn:2053#优选域名
+icook.tw:2053#icook
+visa.cn:2053#visa中国官网
 visa.cn:443#visa中国官网
 cf.090227.xyz:443#CM大佬维护的优选
 api-ipv4.ip.sb:443#IP查询器
-fbi.go:443#美国FBI
 [2606:4700::]:443#不死IP
-jp.byun.eu.org:443#官方 IP 优选
-un.goasa.top:443#官方 IP 优选
 emby2.misakaf.org:443#官方 IP 优选
